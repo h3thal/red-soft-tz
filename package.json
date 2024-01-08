@@ -10,9 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "rc-tree": "^5.8.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.21.1"
+    "react-router-dom": "^6.21.1",
+    "sass": "^1.69.7"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
